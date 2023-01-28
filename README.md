@@ -94,11 +94,11 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**Thank you for your interest in contributing to our Repo!🏼**
+**Thank you for your interest in contributing to our Repo!**
 
 
 
-# Our valuable Contributors👩‍💻👨‍💻 :
+# Our valuable Contributors💻 :
 <a href="https://github.com/nandhakumarRNK/awsome-javascript-projects/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=nandhakumarRNK/awsome-javascript-projects" />
 </a>
