@@ -1,4 +1,4 @@
-<h1 align="center">Awesome CSS Projects🎨🎭</h1>
+<h1 align="center">AWSOME JAVASCRIPT PROJECTS</h1>
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-orange.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square) 
