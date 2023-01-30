@@ -13,7 +13,7 @@
       <h1>SCIENTICFIC CALCULATOR EXAMPLE</h1>
       <p>A Scientific Calculator in HTML, CSS and JavaScript.</p>
     </header>
-    <main style="border: 1px solid;">
+    <main style="border: 1px solid">
       <table class="calculator table">
         <thead>
           <tr>
@@ -37,7 +37,17 @@
               <button class="btn btn-op" data-value="%">%</button>
             </td>
             <td>
-              <button class="btn btn-op" style="color: #fff;background-color: #dc3545 !important;border-color: #dc3545;" data-value="ce">CE</button>
+              <button
+                class="btn btn-op"
+                style="
+                  color: #fff;
+                  background-color: #dc3545 !important;
+                  border-color: #dc3545;
+                "
+                data-value="ce"
+              >
+                CE
+              </button>
             </td>
           </tr>
           <tr>
@@ -127,7 +137,17 @@
               <button class="btn" data-value="0">0</button>
             </td>
             <td>
-              <button class="btn btn-op" style="color: #fff;background-color: #fa6705 !important;border-color: #dc3545;" data-value="=">=</button>
+              <button
+                class="btn btn-op"
+                style="
+                  color: #fff;
+                  background-color: #fa6705 !important;
+                  border-color: #dc3545;
+                "
+                data-value="="
+              >
+                =
+              </button>
             </td>
             <td>
               <button class="btn btn-op" data-value="+">+</button>
@@ -136,7 +156,14 @@
         </tbody>
       </table>
     </main>
-    <footer class="credit"></footer>
+    <footer></footer>
+    <footer class="credit" style="padding-left: 15px">
+      <p>
+        &#x3c; &#47; &#x3e; with ❤️ by
+        <a target="_blank" href="https://github.com/nandhakumarRNK">RNK</a>
+        <br />
+      </p>
+    </footer>
     <script src="./js/script.js"></script>
   </body>
 </html>
