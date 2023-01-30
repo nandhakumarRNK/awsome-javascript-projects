@@ -21,7 +21,7 @@ Little knowledge of Github would be benificial for you so that you know what you
 # Languages-used 🎓
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-# Contributing Guidelines📝
+# Contributing is Easy to DO📝
 
 Are we missing any of your favorite features, which you think you can add to it? For major changes, please open an issue first to discuss what you would like to change. You are welcome to contribute in this project. Pull requests are welcome.
 
